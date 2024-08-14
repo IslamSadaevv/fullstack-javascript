@@ -1,5 +1,4 @@
 {
-    "testimonials": [
       {
         "id": 1,
         "content": "Thank you, Elegant Events, for making our dream wedding come true. The day was flawless.",
@@ -15,23 +14,6 @@
         "content": "Elegant Events made our wedding day truly special. The attention to detail and personal touches were incredible.",
         "author": "Jane & John"
       }
-    ],
-    "portfolios": [
-      {
-        "id": 1,
-        "couple_names": "Emily & David",
-        "image_url": "http://example.com/image1.jpg"
-      },
-      {
-        "id": 2,
-        "couple_names": "Sarah & Mike",
-        "image_url": "http://example.com/image2.jpg"
-      },
-      {
-        "id": 2,
-        "couple_names": "Jane & John",
-        "image_url": "http://example.com/image2.jpg"
-      }
-    ]
 }
+
   
